@@ -29,7 +29,7 @@
 
 ### Connect with me
 
-<a href="https://www.linkedin.com/in/your-username/">
+<a href="https://www.linkedin.com/in/in/gerry-dunn/">
   <img src="https://github.com/user-attachments/assets/1effbc0b-ddc8-4ed3-9eef-f0cffde4ec23" alt="LinkedIn" width="50" />
 </a>
 
