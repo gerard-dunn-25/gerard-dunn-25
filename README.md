@@ -26,3 +26,6 @@
   <img width="50" style="background: white; padding: 5px; border-radius: 8px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" alt="SQLite" title="SQLite"/>
 
 </div>
+
+[![LinkedIn](https://github.com/user-attachments/assets/1effbc0b-ddc8-4ed3-9eef-f0cffde4ec23)](https://www.linkedin.com/in/gerry-dunn/)
+
