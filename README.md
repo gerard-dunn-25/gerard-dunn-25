@@ -10,8 +10,6 @@
 
 ### Current Tech Stack
 
-### Current Tech Stack
-
 <div style="display: flex; flex-wrap: wrap; gap: 10px; background-color: #f4f4f4; padding: 15px; border-radius: 10px; justify-content: center;">
 
   <img width="50" style="background: white; padding: 5px; border-radius: 8px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/>
