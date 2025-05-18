@@ -1,6 +1,6 @@
 ### Kia Ora! 👋 My name is Gerard, but most people call me Gerry! 
 
-⚡ I'm a creatively driven individual with a unique blend of experience across marketing & advertising, audio production, and most recently, full-stack web development. 
+⚡ I'm a creatively driven individual with a unique blend of experience studying marketing & advertising, audio production, and most recently, full-stack web development. 
 
 🔭 After earning a degree majoring in Marketing and Advertising and completing a Certificate in Audio Production & Sound Engineering, I spent several years working with Auckland Council across various portfolios—building strong communication, stakeholder engagement, and interpersonal skills.
 
