@@ -1,12 +1,16 @@
-### Kia Ora! 👋 My name is Gerard, but most people call me Gerry! 
+### Kia Ora, I'm Gerry! 👋 
 
-⚡ I'm a creatively driven individual with a unique blend of experience studying marketing & advertising, audio production, and most recently, full-stack web development. 
+I'm a Junior Fullstack Engineer based in Auckland. 
 
-🔭 After earning a degree majoring in Marketing and Advertising and completing a Certificate in Audio Production & Sound Engineering, I spent several years working with Auckland Council across various portfolios—building strong communication, stakeholder engagement, and interpersonal skills.
+I studied marketing, audio production, and worked with Auckland Council for 8 years before deciding to take a career change into software development managing a data integration project with MPI. 
 
-🌱 Recently, I decided to take the leap into tech and completed a Certificate in Applied Software Development through Dev Academy Aotearoa’s bootcamp. Over 15 intensive weeks, I developed practical skills in modern web technologies, while also strengthening my collaboration, communication, and agile teamwork abilities.
+That mix has been more useful than I expected: communication, breaking down complex problems, working across teams that don't always speak the same language.
 
-👯 I’m now looking to bring my multidisciplinary background and fresh technical skills into a dynamic, values-driven organisation - especially one that values creativity, purpose, and growth. 
+I completed Dev Academy's fullstack bootcamp, then spent time interning at Harmoney working across a TypeScript/Next.js/NestJS stack, getting comfortable with production codebases, code review, and the general rhythm of shipping things on a real team.
+
+I'm now looking for a junior fullstack role somewhere with a strong engineering culture and interesting problems to solve. Ideally somewhere I can keep learning fast and actually contribute, not just make the numbers look good.
+
+When I'm not coding I'm usually rolling dice, working on something creative, or both at the same time.
 
 ### Current Tech Stack
 
