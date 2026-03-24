@@ -8,9 +8,9 @@ That mix has been more useful than I expected: communication, breaking down comp
 
 I completed Dev Academy's fullstack bootcamp, then spent time interning at Harmoney working across a TypeScript/Next.js/NestJS stack, getting comfortable with production codebases, code review, and the general rhythm of shipping things on a real team.
 
-I'm now looking for a junior fullstack role somewhere with a strong engineering culture and interesting problems to solve. Ideally somewhere I can keep learning fast and actually contribute, not just make the numbers look good.
+I'm now looking for a junior fullstack role somewhere with a strong engineering culture and interesting problems to solve. Ideally somewhere I can continue learning fast and contribute meaningfully.
 
-When I'm not coding I'm usually rolling dice, working on something creative, or both at the same time.
+When I'm not coding I'm usually playing guitar, catching up with friends over a game of MTG, working on something creative, or taking my dog on an adventure.
 
 ### Current Tech Stack
 
